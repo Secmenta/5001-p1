@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+checks/
+runs/
+*.pt
+
+# Local credentials and private keys
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*secrets*.json
